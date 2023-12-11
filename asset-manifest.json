@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SnapMart/static/css/main.f855e6bc.css",
+    "main.js": "/SnapMart/static/js/main.2a2512a0.js",
+    "static/js/787.f83182d6.chunk.js": "/SnapMart/static/js/787.f83182d6.chunk.js",
+    "index.html": "/SnapMart/index.html",
+    "main.f855e6bc.css.map": "/SnapMart/static/css/main.f855e6bc.css.map",
+    "main.2a2512a0.js.map": "/SnapMart/static/js/main.2a2512a0.js.map",
+    "787.f83182d6.chunk.js.map": "/SnapMart/static/js/787.f83182d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2a2512a0.js"
+  ]
+}
